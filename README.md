@@ -14,6 +14,8 @@ After the analysis, Maria was informed that Thomas High School 9th grader result
 ## Summary & Results
 
 ### School District Summary
+![School_District_Summary](https://user-images.githubusercontent.com/80075982/114335205-243a3880-9b01-11eb-8a29-bf65410287bd.png)
+
 
 Comparing the results of the charts above, district summary chart incuding all schools and district summary chart without Thomas High School, there is a 1% change on the % Overall Passing. When the Thomas High School grade was removed, overall passing percentage dropped to 1%
 
