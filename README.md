@@ -16,7 +16,7 @@ After the analysis, Maria was informed that Thomas High School 9th grader result
 ### School District Summary
 
 Comparing the results of the charts below, district summary chart incuding all schools and district summary chart without Thomas High School, there is a 1% change on the % Overall Passing. When the Thomas High School grade was removed, overall passing percentage dropped to 1%
-
+![School_District_Summary](https://user-images.githubusercontent.com/80075982/114335205-243a3880-9b01-11eb-8a29-bf65410287bd.png)
 
 
 ### School Summary
@@ -24,11 +24,12 @@ Comparing the results of the charts below, district summary chart incuding all s
  Chart comparison of school summary including all schools and school summary without the 9th grades score, there was a significant change in Thomas High School % of passing math, passing reading and over all passing.From the original data, Thomas High School % is 90% and over. After removing the 9th grade scores, the % is under 70%.
  
 ![School_Summary_All_Schools](https://user-images.githubusercontent.com/80075982/114335216-2ac8b000-9b01-11eb-90df-037aceaeaab1.png)
+![School_Summary_All_Schools](https://user-images.githubusercontent.com/80075982/114335216-2ac8b000-9b01-11eb-90df-037aceaeaab1.png)
 
     - Math and reading scores by grade
         -Math & Reeading score for the 9th grade was removed therfore no grades showing for the entire 9th grade
         
-![School_Summary_All_Schools](https://user-images.githubusercontent.com/80075982/114335216-2ac8b000-9b01-11eb-90df-037aceaeaab1.png)
+
         
         -Reviewing the Top 5 results, as you can see from the charts, Thomas High School rank 2nd  with the 9th grade scores. When it 9th grade scores were no included, Thomas 
          High School was on the list of top 5 
@@ -37,12 +38,12 @@ Comparing the results of the charts below, district summary chart incuding all s
          
         -Revieiwing the Bottom 5 results, as you can see from the chart, the ranking was affected by schools
         
-        ![Botttom](https://user-images.githubusercontent.com/80075982/114335284-4e8bf600-9b01-11eb-8134-05a94546ad8f.png)
+![Botttom](https://user-images.githubusercontent.com/80075982/114335284-4e8bf600-9b01-11eb-8134-05a94546ad8f.png)
 
     - Scores by school spending
         - The scores by spending also shows that the % passing math, passing reading and overall passing with overall passing from 63% tp 56%
         
-![School_Type](https://user-images.githubusercontent.com/80075982/114335327-606d9900-9b01-11eb-8666-d41f3eb7f796.png)
+
 
 
     - Scores by school size
